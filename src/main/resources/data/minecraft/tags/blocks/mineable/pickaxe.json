@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "spacetech:zircon_block",
+
+    "spacetech:deepslate_zircon_ore",
+
+    "spacetech:zircon_ore",
+    "spacetech:titanium_ore",
+    "spacetech:sulfur_ore",
+    "spacetech:aluminium_ore",
+    "spacetech:tungsten_ore",
+    "spacetech:copper_ore",
+    "spacetech:silver_ore",
+    "spacetech:lead_ore"
+  ]
+}

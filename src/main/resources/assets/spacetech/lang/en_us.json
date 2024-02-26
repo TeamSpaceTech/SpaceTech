@@ -1,0 +1,53 @@
+{
+  "item.spacetech.eight_ball": "Eight Ball",
+  "item.spacetech.handgun": "HandGun",
+  "item.spacetech.handgun_mag": "HandGun Magazine",
+  "item.spacetech.soap_water_bucket": "Soap Water Bucket",
+  "item.spacetech.elysium_pickaxe": "Elysium Pickaxe",
+
+  "item.spacetech.elysium_gem": "Elysium",
+  "item.spacetech.raw_tungsten_ore": "Raw Tungsten",
+  "item.spacetech.raw_lead_ore": "Raw Lead",
+  "item.spacetech.raw_titanium_ore": "Raw Titanium",
+  "item.spacetech.raw_copper_ore": "Raw Copper",
+  "item.spacetech.sulfur_crystal": "Sulfur Crystal",
+  "item.spacetech.raw_aluminium_ore": "Raw Aluminium",
+  "item.spacetech.raw_silver_ore": "Raw Silver",
+  "item.spacetech.elysian_pickaxe": "Elysian Pickaxe",
+
+  "item.spacetech.titanium_ingot": "Titanium Ingot",
+  "item.spacetech.tungsten_ingot": "Tungsten Ingot",
+  "item.spacetech.silver_ingot": "Silver Ingot",
+  "item.spacetech.aluminium_ingot": "Aluminium Ingot",
+  "item.spacetech.copper_ingot": "Copper Ingot",
+  "item.spacetech.lead_ingot": "Lead Ingot",
+
+  "item.spacetech.sulfur_dust": "Sulfur Dust",
+
+  "item.spacetech.t1_crusher_disk": "T1 Crushing Disk",
+
+
+  "block.spacetech.right_block": "Click Me",
+  "block.spacetech.t1_ore_crusher": "Basic Crusher",
+
+  "block.spacetech.tungsten_ore": "Tungsten Ore",
+  "block.spacetech.lead_ore": "Lead Ore",
+  "block.spacetech.aluminium_ore": "Bauxite Ore",
+  "block.spacetech.sulfur_ore": "Sulfur Crystal Ore",
+  "block.spacetech.titanium_ore": "Titanium Ore",
+  "block.spacetech.copper_ore": "Copper Ore",
+  "block.spacetech.silver_ore": "Silver Ore",
+
+  "block.spacetech": "",
+  "block.spacetech": "",
+  "block.spacetech": "",
+  "block.spacetech": "",
+  "block.spacetech": "",
+
+  "itemGroup.spacetech": "SpaceTech",
+  "key.category.spacetech.Keys": "SpaceTech",
+  "key.spacetech.cow_test": "Cow",
+
+  "spacetech.tooltip.liquid.amount.with.capacity": "%s / %s mB",
+  "spacetech.tooltip.liquid.amount": "%s mB"
+}

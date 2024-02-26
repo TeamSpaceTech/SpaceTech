@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spacetech:block/space_brewer"
+    },
+    "facing=south": {
+      "model": "spacetech:block/space_brewer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spacetech:block/space_brewer",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "spacetech:block/space_brewer",
+      "y": 90
+    }
+  }
+}

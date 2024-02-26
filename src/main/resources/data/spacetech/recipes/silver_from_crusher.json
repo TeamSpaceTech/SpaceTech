@@ -1,0 +1,15 @@
+{
+  "type": "spacetech:basic_crushing",
+  "ingedients": [
+    {
+      "item": "spacetech:raw_silver_ore"
+    }
+  ],
+  "fluid": {
+    "FluidName": "minecraft:water",
+    "amount": 500
+  },
+  "output": {
+    "item": "spacetech:silver_bar"
+  }
+}

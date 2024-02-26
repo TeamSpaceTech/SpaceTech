@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "spacetech:titanium_ore",
+    "spacetech:sulfur_ore",
+    "spacetech:aluminium_ore",
+    "spacetech:tungsten_ore",
+    "spacetech:copper_ore",
+    "spacetech:silver_ore",
+    "spacetech:lead_ore"
+  ]
+}

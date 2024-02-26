@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experiene": 0.7,
+  "group": "zircon",
+  "ingredient": {
+    "item": "spacetech:raw_tungsten_ore"
+  },
+  "result": "spacetech:tungsten_ingot"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experiene": 0.7,
+  "group": "zircon",
+  "ingredient": {
+    "item": "spacetech:raw_silver_ore"
+  },
+  "result": "spacetech:silver_ingot"
+}

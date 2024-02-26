@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spacetech:block/t1_ore_crusher"
+    },
+    "facing=south": {
+      "model": "spacetech:block/t1_ore_crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spacetech:block/t1_ore_crusher",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "spacetech:block/t1_ore_crusher",
+      "y": 90
+    }
+  }
+}

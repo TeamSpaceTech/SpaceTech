@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "RMR",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"},
+
+    "M": {
+      "item": "spacetech:t1_crusher_disk"},
+
+    "R": {
+      "item": "minecraft:redstone_block"}},
+
+  "result": {
+    "item": "spacetech:t1_ore_crusher"
+  }
+}
