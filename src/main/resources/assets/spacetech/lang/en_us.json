@@ -44,7 +44,9 @@
   "block.spacetech": "",
   "block.spacetech": "",
 
-  "itemGroup.spacetech": "SpaceTech",
+
+  "creative_tab_resource.spacetech": "Resources | SpaceTech",
+  "creative_tab_tools.spacetech": "Tools | SpaceTech",
   "key.category.spacetech.Keys": "SpaceTech",
   "key.spacetech.cow_test": "Cow",
 
